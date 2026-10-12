@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height:150px;
+    background-color: #f2f2f2;
+    
+
+}
+
+.cen{
+    display:grid;
+    place-content: center;
+}

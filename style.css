@@ -4,13 +4,18 @@
     box-sizing: border-box;
 }
 
+body{
+    display:flex;
+    min-height: 100vh;
+}
 nav{
     height:150px;
+    width:100dvw;
     background: #cac8c8;
     color: #000;
     display:grid;
     grid-auto-flow: column;
-    gap: 5dvw;
+    gap: 7dvw;
 }
 
 nav a{
